@@ -53,3 +53,8 @@ for (let index = 0; index < 1000; index++) { // 1  2
         }
     }
 }
+
+for (let index = 0; index < array.length; index++) {
+    const element = array[index];
+    
+}
